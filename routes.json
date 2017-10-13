@@ -1,0 +1,5 @@
+{
+    "/mastercard/": "/",
+    "/acquirers/:id": "/:id",
+    "/acquirerRelationships/:merchantAcqCode": "/:merchantAcqCode"
+}

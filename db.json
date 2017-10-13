@@ -1,0 +1,108 @@
+{
+  "authors": [
+    {
+      "id": 2,
+      "title": "Tameshwar",
+      "author": "Nirmalkar",
+      "gender": "M"
+    },
+    {
+      "id": 5,
+      "title": "Manjulata",
+      "author": "Nirmalkar",
+      "gender": "F"
+    },
+    {
+      "id": 6,
+      "title": "Kidzee",
+      "author": "Baner",
+      "gender": "M"
+    },
+    {
+      "title": "test",
+      "author": "fdsafsf",
+      "gender": "M",
+      "id": 7
+    },
+    {
+      "title": "fdfsafd",
+      "author": "fdsfdasfd",
+      "gender": "M",
+      "id": 8
+    },
+    {
+      "title": "Sachit pandey",
+      "author": "Pandey",
+      "gender": "M",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "body": "some comment",
+      "postId": 5
+    },
+    {
+      "id": 6,
+      "body": "some comment",
+      "postId": 6
+    },
+    {
+      "id": 7,
+      "body": "some comment",
+      "postId": 7
+    },
+    {
+      "id": 8,
+      "body": "some comment",
+      "postId": 8
+    },
+    {
+      "id": 9,
+      "body": "some comment",
+      "postId": 9
+    },
+    {
+      "id": 10,
+      "body": "some comment",
+      "postId": 10
+    },
+    {
+      "id": 10,
+      "body": "some comment",
+      "postId": 10
+    },
+    {
+      "id": 12,
+      "body": "some comment",
+      "postId": 12
+    },
+    {
+      "id": 13
+    }
+  ],
+  "profile": {
+    "name": "Tameshwar Nirmalkar"
+  }
+}

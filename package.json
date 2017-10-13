@@ -1,0 +1,57 @@
+{
+  "name": "reactwebpack",
+  "version": "1.0.0",
+  "description": "this is assignment for es6 babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors --inline --content-base src/",
+    "dev": "webpack-dev-server --progress --colors --inline --content-base src/",
+    "build": "webpack -p",
+    "rest": "json-server db.json --routes routes.json --port 4001",
+    "lint": "eslint ./src"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "es6",
+    "babel"
+  ],
+  "author": "Tameshwar Nirmalkar",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.16.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "prop-types": "^15.6.0",
+    "react": "^15.3.2",
+    "react-addons-update": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-tap-event-plugin": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.16.0",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "classnames": "^2.2.5",
+    "eslint": "^3.9.0",
+    "eslint-plugin-react": "^6.4.1",
+    "flux": "^3.1.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.1.1",
+    "jsdom": "^9.8.0",
+    "json-server": "^0.8.22",
+    "keymirror": "^0.1.1",
+    "location": "0.0.1",
+    "lodash": "^4.16.4",
+    "moment": "^2.15.1",
+    "navigator": "^1.0.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
