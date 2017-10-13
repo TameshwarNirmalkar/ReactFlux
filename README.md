@@ -1,4 +1,4 @@
-# ES6Babel
+# React Flux Complete Crud Operation.
 
 * npm install: to install the dependencies
 * npm start: to start the app
